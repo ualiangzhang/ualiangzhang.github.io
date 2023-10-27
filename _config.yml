@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Liang Zhang"
-  avatar           : "Liang_Zhang_Photo.jpeg"
+  avatar           : "Profile.png"
   bio              : "Research Scientist at University of Arizona"
-  location         : "Tucson, AZ"
-  employer         : "University of Arizona, Tucson, AZ, USA"
+  location         : "Tucson, AZ, USA"
+  employer         : "University of Arizona"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PJbOQBMAAAAJ&hl=en"
   email            : "liangzh@arizona.edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ualiangzhang"
+  github           : "ualiangzhang"
   google_plus      :
   keybase          :
   instagram        :
