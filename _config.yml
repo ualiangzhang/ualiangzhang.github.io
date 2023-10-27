@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Liang Zhang"
-  avatar           : "profile.png"
+  avatar           : "Liang_Zhang_Photo.jpeg"
   bio              : "Research Scientist at University of Arizona"
   location         : "Tucson, AZ"
   employer         : "University of Arizona, Tucson, AZ, USA"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1966-0864"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
