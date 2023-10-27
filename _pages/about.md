@@ -14,6 +14,15 @@ About Me
 ======
 I hold a PhD degree in electrical engineering. My academic career has been marked by a relentless pursuit of understanding artificial intelligence and signal processing, contributing to the academic community through a multitude of research projects, publications, and collaborations. As a research scientist at University of Arizona, I continue to engage in cutting-edge research and educational endeavors.
 
+My primary research interests encompass a wide range of topics, including:
+
+- Scientific Knowledge Extraction
+- Cybersecurity
+- Deep Reinforcement Learning
+- Signal Processing
+
+My current research focuses on [SKEMA: Scientific Knowledge Extraction and Model Analysis](https://github.com/ml4ai/skema), a project aimed at extracting and integrating knowledge from scientific literature using artificial intelligence and machine learning methods. This endeavor reflects my dedication to solving complex problems in artificial intelligence, and I am excited to share the findings and insights from this ongoing work.
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
