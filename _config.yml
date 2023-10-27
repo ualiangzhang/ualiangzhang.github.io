@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my webpage!"
+title                    : "Welcome to My Webpage!"
 title_separator          : "-"
 name                     : &name "Liang Zhang"
 description              : &description "personal description"
