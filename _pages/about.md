@@ -12,7 +12,7 @@ I am a dedicated researcher and scholar in the field of artificial intelligence 
 
 About Me
 ======
-I hold a PhD degree in electrical engineering. My academic career has been marked by a relentless pursuit of understanding artificial intelligence and humans, contributing to the academic community through a multitude of research projects, publications, and collaborations. As a research scientist at University of Arizona, I continue to engage in cutting-edge research and educational endeavors.
+I hold a Ph.D. degree in Electrical Engineering. My academic career has been marked by a relentless pursuit of understanding artificial intelligence and humans, contributing to the academic community through a multitude of research projects, publications, and collaborations. As a research scientist at University of Arizona, I continue to engage in cutting-edge research and educational endeavors.
 
 My primary research interests encompass a wide range of topics, including:
 
