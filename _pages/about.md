@@ -25,4 +25,4 @@ My current research focuses on [SKEMA: Scientific Knowledge Extraction and Model
 
 News
 ======
-1. To be updated
+1. 10/27/2023: This website is still under construction. Please stay tuned.
