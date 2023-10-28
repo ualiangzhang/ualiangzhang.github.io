@@ -99,4 +99,4 @@ Service and Leadership
 * AAAI-24 PC Member
 * AAAI-23 Reviewer
 * ICML-23 Reviewer
-* Applied Intelligence Reviewer
+* Applied Intelligence (Journal) Reviewer
