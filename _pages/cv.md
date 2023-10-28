@@ -15,7 +15,7 @@ Education
 * M.S. in Information and Communication Engineering, Tianjin University, China, 2014
 * B.S. in Software Engineering, Hebei University of Technology, China, 2010
 
-Work experience
+Work Experience
 ======
 * 09/2023 - present  Research Scientist
   * University of Arizona, USA
@@ -65,15 +65,17 @@ Training Experience
 * 07/2018 – 08/2018  Big Data Analysis based on Machine Learning 
   * Chinese Institute of Electronics 
 
-* 2017.07 – 2017.08  Online Movie Recommendation Based on Java, JSP, Hadoop and Linux. 
+* 07/2017 – 08/2017  Online Movie Recommendation Based on Java, JSP, Hadoop and Linux. 
   * Oracle University (China) 
 
-* 2010.04 – 2010.06  Java, Oracle database 
+* 04/2010 – 06/2010  Java, Oracle database 
   * Excellency Training Center of CSI 
 
 Projects and Research
 ======
 * 12/2022 – present Scientific Knowledge Extraction and Model Analysis
+
+* 06/2023 – present Improving the Interpretability of Deep Reinforcement Learning through Semantic Clustering
 
 * 07/2020 – 2022.11 Theory-of-Mind based Cognitive Architecture for Teams
 
@@ -91,7 +93,7 @@ Projects and Research
 
 * 01/2014 – 01/2016 Research on Cooperative Localization in Indoor NLOS Environments Based on Short-snapshots Spectral Analysis
 
-Service and leadership
+Service and Leadership
 ======
 * AAAI-24 PC Member
 * AAAI-24 PC Revieer
