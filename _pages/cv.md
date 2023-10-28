@@ -39,11 +39,43 @@ Work experience
 * 06/2017 – 01/2019  Lecturer       
   * Civil Aviation University of China, China 
 
+Training Experience
+======
+* 04/2021  CIRTL Practitioner Level II Certification   
+  * Center for the Integration of Research, Teaching and Learning (CIRTL) and University of Arizona 
+
+* 11/2020  CIRTL Associate Level I Certification   
+  * CIRTL and the University of Arizona 
+
+* 11/2020  The Graduate-level CIRTL Network MOOC-Centered Learning Community  
+  * CIRTL 
+
+* 06/2020 Introduction to Genomic Technologies   
+  * Johns Hopkins University on Coursera  (verify: QTX8YQF8J96Z) 
+
+* 06/2020  Python for Genomic Data Science   
+  * Johns Hopkins University on Coursera  (verify: J8VASLDA3CD2)  
+
+* 11/2019  Machine Learning   
+  * Stanford Online Course  (verify: B4926N7URKD4) 
+
+* 06/2018 – 07/2018 English as A Medium of Instruction  
+  * British Council  
+
+* 07/2018 – 08/2018  Big Data Analysis based on Machine Learning 
+  * Chinese Institute of Electronics 
+
+* 2017.07 – 2017.08  Online Movie Recommendation Based on Java, JSP, Hadoop and Linux. 
+  * Oracle University (China) 
+
+* 2010.04 – 2010.06  Java, Oracle database 
+  * Excellency Training Center of CSI 
+
 Service and leadership
 ======
 * AAAI-24 PC Member
-* AAAI-23 Reviewer
+* AAAI-24 PC Reviewer
 * ICML-23 Reviewer
-* ICML-22 Reviewer
-* Applied Intelligence (Journal) Reviewer
-
+* ICML-23 Reviewer
+* Applied Intelligence Reviewer
+* 
