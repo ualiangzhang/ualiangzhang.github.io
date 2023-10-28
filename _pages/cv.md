@@ -77,9 +77,9 @@ Projects and Research
 
 * 06/2023 – present Improving the Interpretability of Deep Reinforcement Learning through Semantic Clustering
 
-* 07/2020 – 2022.11 Theory-of-Mind based Cognitive Architecture for Teams
+* 07/2020 – 11/2022 Theory-of-Mind based Cognitive Architecture for Teams
 
-* 02/2020 – 2020.06 Explainable AI
+* 02/2020 – 06/2020 Explainable AI
 
 * 02/2020 – 06/2020 Social Robotics for The Elderly
 
