@@ -71,10 +71,29 @@ Training Experience
 * 2010.04 – 2010.06  Java, Oracle database 
   * Excellency Training Center of CSI 
 
+Projects and Research
+======
+* 12/2022 – present Scientific Knowledge Extraction and Model Analysis
+
+* 07/2020 – 2022.11 Theory-of-Mind based Cognitive Architecture for Teams
+
+* 02/2020 – 2020.06 Explainable AI
+
+* 02/2020 – 06/2020 Social Robotics for The Elderly
+
+* 09/2018 – 02/2019 Research on Multidimensional Security Situation Assessment and Business Impact Analysis of Civil Aviation Network Information
+
+* 07/2018 – 09/2018 Research on Analysis of Air Traffic Flow Clustering
+
+* 01/2018 – 01/2019 Research on Distributed Chirp Source Localization Technology
+
+* 01/2016 – 01/2019 Research on the Key Technology of Localization for Mobile Underwater Acoustic Sensor Networks (UASN) in Shallow Ocean
+
+* 01/2014 – 01/2016 Research on Cooperative Localization in Indoor NLOS Environments Based on Short-snapshots Spectral Analysis
+
 Service and leadership
 ======
 * AAAI-24 PC Member
-* AAAI-24 PC Reviewer
-* ICML-23 Reviewer
+* AAAI-24 PC Revieer
 * ICML-23 Reviewer
 * Applied Intelligence Reviewer
