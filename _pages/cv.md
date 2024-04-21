@@ -96,8 +96,9 @@ Projects and Research
 
 Service and Leadership
 ======
-* AAAI-24 PC Member
-* AAAI-23 Reviewer
-* ICML-23 Reviewer
+* ECAI-24 (Conference) PC Member
+* AAAI-24 (Conference) PC Member
+* AAAI-23 (Conference) Reviewer
+* ICML-23 (Conference) Reviewer
 * Applied Intelligence (Journal) Reviewer
 * Expert Systems With Applications (Journal) Reviewer
