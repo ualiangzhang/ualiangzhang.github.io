@@ -96,7 +96,7 @@ Projects and Research
 
 Service and Leadership
 ======
-* NeurIPS-24 Reviewer
+* NeurIPS-24 (Conference) Reviewer
 * ECAI-24 (Conference) PC Member
 * AAAI-24 (Conference) PC Member
 * AAAI-23 (Conference) Reviewer
