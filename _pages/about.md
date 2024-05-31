@@ -21,8 +21,9 @@ My primary research interests encompass a wide range of topics, including:
 - Deep Reinforcement Learning
 - Signal Processing
 
-My current research focuses on [SKEMA: Scientific Knowledge Extraction and Model Analysis](https://github.com/ml4ai/skema), a project aims at extracting and integrating knowledge from scientific literature using artificial intelligence and machine learning methods. This endeavor reflects my dedication to solving complex problems in artificial intelligence, and I am excited to share the findings and insights from this ongoing work.
+[//]: # (My current research focuses on [SKEMA: Scientific Knowledge Extraction and Model Analysis]&#40;https://github.com/ml4ai/skema&#41;, a project aims at extracting and integrating knowledge from scientific literature using artificial intelligence and machine learning methods. This endeavor reflects my dedication to solving complex problems in artificial intelligence, and I am excited to share the findings and insights from this ongoing work.)
 
 News
 ======
+05/31/2024: Some minor updates have been made.
 10/28/2023: This website construction started.
