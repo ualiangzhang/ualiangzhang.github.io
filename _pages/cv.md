@@ -74,9 +74,11 @@ Training Experience
 
 Projects and Research
 ======
-* 12/2022 – present Scientific Knowledge Extraction and Model Analysis
+* 05/2024 – present Next-Generation Teams
 
 * 06/2023 – present Improving the Interpretability of Deep Reinforcement Learning through Semantic Clustering
+
+* 12/2022 – present Scientific Knowledge Extraction and Model Analysis
 
 * 07/2020 – 11/2022 Theory-of-Mind based Cognitive Architecture for Teams
 
