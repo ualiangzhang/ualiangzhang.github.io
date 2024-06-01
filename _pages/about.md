@@ -25,5 +25,5 @@ My primary research interests encompass a wide range of topics, including:
 
 News
 ======
-05/31/2024: Some minor updates have been made.
-10/28/2023: This website construction started.
+* 05/31/2024: Some minor updates have been made.
+* 10/28/2023: This website construction started.
