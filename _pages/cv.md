@@ -98,6 +98,7 @@ Projects and Research
 
 Service and Leadership
 ======
+* AAAI-25 (Conference) PC Member
 * NeurIPS-24 (Conference) Reviewer
 * ECAI-24 (Conference) PC Member
 * AAAI-24 (Conference) PC Member
