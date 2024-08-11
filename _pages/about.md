@@ -25,6 +25,7 @@ My primary research interests encompass a wide range of topics, including:
 
 News
 ======
+* 08/11/2024: I'm honored to serve as a Program Committee Member for AAAI-25.
 * 08/09/2024: I attended the Workshop on Interpretable Policies in Reinforcement Learning at RLC 2024 and presented our work - VQ-RL.
 * 05/31/2024: Some minor updates have been made.
 * 10/28/2023: This website construction started.
