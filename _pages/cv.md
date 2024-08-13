@@ -18,7 +18,7 @@ Education
 
 Work Experience
 ======
-* 08/2024 - present  Adjunct Lecturer
+* 08/2024 - present  Adjunct Instructor
   * University of Arizona, USA
 
 * 09/2023 - present  Research Scientist
