@@ -18,6 +18,9 @@ Education
 
 Work Experience
 ======
+* 08/2024 - present  Adjunct Lecturer
+  * University of Arizona, USA
+
 * 09/2023 - present  Research Scientist
   * University of Arizona, USA
   * Supervisor: Professor Adarsh Pyarelal
