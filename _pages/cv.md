@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Circuits and Systems, Tianjin University, China, 2017
-* Visiting Ph.D. student in Electrical Engineering, University of Minnesota, MN, USA, 2015
-* M.S. in Information and Communication Engineering, Tianjin University, China, 2014
-* B.S. in Software Engineering, Hebei University of Technology, China, 2010
+* Ph.D. in Circuits and Systems, Tianjin University, China
+* Visiting Ph.D. student in Electrical Engineering, University of Minnesota, MN, USA
+* M.S. in Information and Communication Engineering, Tianjin University, China
+* B.S. in Software Engineering, Hebei University of Technology, China
 
 Work Experience
 ======
