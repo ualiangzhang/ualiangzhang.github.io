@@ -45,6 +45,12 @@ Work Experience
 
 Training Experience
 ======
+* 11/2024 Generative AI with Large Language Models   
+  * DeepLearning.AI on Coursera  (verify: A7HLWVH4J6BV) 
+  * Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works
+  * Dive into the latest research on Gen AI to understand how companies are creating value with cutting-edge technology
+  * Instruction from expert AWS AI practitioners who actively build and deploy AI in business use-cases today
+
 * 04/2021  CIRTL Practitioner Level II Certification   
   * Center for the Integration of Research, Teaching and Learning (CIRTL) and University of Arizona 
 
@@ -55,7 +61,7 @@ Training Experience
   * CIRTL 
 
 * 06/2020 Introduction to Genomic Technologies   
-  * Johns Hopkins University on Coursera  (verify: QTX8YQF8J96Z) 
+  * Johns Hopkins University on Coursera  (verify: QTX8YQF8J96Z)
 
 * 06/2020  Python for Genomic Data Science   
   * Johns Hopkins University on Coursera  (verify: J8VASLDA3CD2)  
