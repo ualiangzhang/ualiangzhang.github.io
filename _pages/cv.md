@@ -85,7 +85,7 @@ Projects and Research
 ======
 * 05/2024 – present Next-Generation Teams
 
-* 06/2023 – present Improving the Interpretability of Deep Reinforcement Learning through Semantic Clustering
+* 06/2023 – 08/2024 Improving the Interpretability of Deep Reinforcement Learning through Semantic Clustering
 
 * 12/2022 – 06/2024 Scientific Knowledge Extraction and Model Analysis
 
