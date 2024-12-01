@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /projects/
+permalink: /project/
 author_profile: true
-redirect_from:
-  - /resume
+#redirect_from:
+#  - /resume
 ---
 
 {% include base_path %}
@@ -12,7 +12,7 @@ redirect_from:
 Projects and Research
 ======
 * 05/2024 – present Next-Generation Teams
-  - Develop and implement AI-driven methods to enhance team performance and collaboration in the Next Generation Teams project, focusing on understanding and predicting human decision-making through plan recognition, large language models (LLMs), and reinforcement learning.
+  * Develop and implement AI-driven methods to enhance team performance and collaboration in the Next Generation Teams project, focusing on understanding and predicting human decision-making through plan recognition, large language models (LLMs), and reinforcement learning.
 
 * 06/2023 – 08/2024 Improving the Interpretability of Deep Reinforcement Learning through Semantic Clustering
 
