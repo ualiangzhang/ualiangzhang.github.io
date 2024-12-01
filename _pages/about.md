@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Dr. Liang Zhang's Academic Homepage"
+title: "Welcome to Dr. Liang Zhang's Personal Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
