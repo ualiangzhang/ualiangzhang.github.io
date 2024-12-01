@@ -37,7 +37,7 @@ Work Experience
   * Supervisor: Professor Michael Littman
   * Work as a Visiting Scientist and Research Associate, contributing to projects on social robotics, reinforcement learning, and explainable AI, focusing on algorithm design, coding, and testing in applications like StarCraft II to enhance AI interpretability and usability.
 
-* 02/2019 – 01/2020  **Visiting Scientis**    
+* 02/2019 – 01/2020  **Visiting Scientist**    
   * Brown University, RI, USA
   * Supervisor: Professor Michael Littman
   * Work as a Visiting Scientist and Research Associate, contributing to projects on social robotics, reinforcement learning, and explainable AI, focusing on algorithm design, coding, and testing in applications like StarCraft II to enhance AI interpretability and usability.

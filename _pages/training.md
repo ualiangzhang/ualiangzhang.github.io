@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 * 11/2024 AWS Cloud Technical Essentials  
   * AWS on Coursera  (verify: 0468SI9W8A4C) 
   * Acquire knowledge of terminology and concepts related to AWS services
