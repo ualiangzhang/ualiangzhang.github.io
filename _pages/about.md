@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a dedicated researcher and scholar in the field of artificial intelligence and machine learning. With a passion for pushing the boundaries of knowledge and a commitment to academic excellence, I am delighted to share my work, research interests, and academic journey with you.
+I am a passionate researcher in artificial intelligence and machine learning, with extensive experience in exploring cutting-edge technologies and solving complex challenges. I look forward to sharing my research journey and insights with you.
 
 About Me
 ======
-I hold a Ph.D. degree in Electrical Engineering. My academic career has been marked by a relentless pursuit of understanding artificial intelligence and humans, contributing to the academic community through a multitude of research projects, publications, and collaborations. As a research scientist at University of Arizona, I continue to engage in cutting-edge research and educational endeavors.
+I hold a Ph.D. in Electrical Engineering and have extensive experience in exploring the intersection of artificial intelligence and human-centric technologies. Throughout my career, I have contributed to numerous research projects, publications, and collaborations. As a Research Scientist at the University of Arizona, I remain deeply engaged in advancing cutting-edge research and fostering innovation.
 
 My primary research interests encompass a wide range of topics, including:
 
