@@ -20,6 +20,12 @@ main:
 
   - title: "Training"
     url: /training/
+
+  - title: "Projects"
+    url: /project/
+
+  - title: "Services"
+    url: /service/
     
 #  - title: "Guide"
 #    url: /markdown/
