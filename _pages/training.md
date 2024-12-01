@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Training"
+title: "Training Experience"
 permalink: /training/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Training Experience
 ======
 * 11/2024 AWS Cloud Technical Essentials  
   * AWS on Coursera  (verify: 0468SI9W8A4C) 
