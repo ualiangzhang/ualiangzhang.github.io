@@ -45,6 +45,13 @@ Work Experience
 
 Training Experience
 ======
+* 11/2024 AWS Cloud Technical Essentials  
+  * AWS on Coursera  (verify: 0468SI9W8A4C) 
+  * Acquire knowledge of terminology and concepts related to AWS services
+  * Explore key concepts of AWS security measures and AWS Identity and Access Management (IAM)
+  * Identify the differences among several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS 
+  * Examine AWS database and storage offerings, including Amazon Relational Database Service (Amazon RDS), Amazon DynamoDB, and Amazon S3
+
 * 11/2024 Generative AI with Large Language Models   
   * DeepLearning.AI on Coursera  (verify: A7HLWVH4J6BV) 
   * Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works
