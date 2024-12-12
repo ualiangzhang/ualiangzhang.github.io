@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 12/2024 **Databases and SQL for Data Science with Python**  
+  * IBM on Coursera  (verify: [link](https://www.credly.com/badges/606c0bab-1c94-4d85-bb87-8951f17919c3/linked_in_profile)) 
+  * Analyze data within a database using SQL and Python
+  * Create a relational database and work with multiple tables using DDL commands
+  * Construct basic to intermediate level SQL queries using DML commands 
+  * Compose more powerful queries with advanced SQL techniques like views, transactions, stored procedures, and joins
 
 * 11/2024 **AWS Cloud Technical Essentials**  
   * AWS on Coursera  (verify: 0468SI9W8A4C) 
