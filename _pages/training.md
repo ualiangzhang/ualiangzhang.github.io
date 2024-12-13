@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 12/2024 **Introduction to Healthcare**  
+  * Stanford University on Coursera  (verify: LMHFU2D6ZIUB) 
+  * The major challenges of the U.S.healthcare system
+  * Who the key stakeholders are in the U.S. healthcare system
+  * Issues you may encounter in efforts to improve healthcare delivery and the healthcare system 
+  
+
 * 12/2024 **Databases and SQL for Data Science with Python**  
   * IBM on Coursera  (verify: [link](https://www.credly.com/badges/606c0bab-1c94-4d85-bb87-8951f17919c3/linked_in_profile)) 
   * Analyze data within a database using SQL and Python
