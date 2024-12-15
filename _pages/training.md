@@ -13,7 +13,13 @@ redirect_from:
   * The major challenges of the U.S.healthcare system
   * Who the key stakeholders are in the U.S. healthcare system
   * Issues you may encounter in efforts to improve healthcare delivery and the healthcare system 
-  
+
+* 12/2024 **Data Analysis with R Programming**  
+  * Google on Coursera  (verify: AI9TJ1FQR5T5) 
+  * Describe the R programming language and its programming environment
+  * Explain the fundamental concepts associated with programming in R including functions, variables, data types, pipes, and vectors
+  * Describe the options for generating visualizations in R
+  * Demonstrate an understanding of the basic formatting in R Markdown to create structure and emphasize content
 
 * 12/2024 **Databases and SQL for Data Science with Python**  
   * IBM on Coursera  (verify: [link](https://www.credly.com/badges/606c0bab-1c94-4d85-bb87-8951f17919c3/linked_in_profile)) 
