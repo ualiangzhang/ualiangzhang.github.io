@@ -22,7 +22,7 @@ redirect_from:
   * Demonstrate an understanding of the basic formatting in R Markdown to create structure and emphasize content
 
 * 12/2024 **Databases and SQL for Data Science with Python**  
-  * IBM on Coursera  (verify: [link](https://www.credly.com/badges/606c0bab-1c94-4d85-bb87-8951f17919c3/linked_in_profile)) 
+  * IBM on Coursera  (verify: 1IXH5LQBDBLG) 
   * Analyze data within a database using SQL and Python
   * Create a relational database and work with multiple tables using DDL commands
   * Construct basic to intermediate level SQL queries using DML commands 
