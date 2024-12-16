@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 12/2024 **Introduction to Clinical Data**  
+  * Stanford University on Coursera  (verify: LGDT57D22K7C) 
+  * How to apply a framework for medical data mining
+  * How to make use of data that may be inaccurate in systematic ways
+  * Ethical use of data in healthcare decisions
+  * What makes a good research question and how to construct a data mining workflow answer it
+
 * 12/2024 **Introduction to Healthcare**  
   * Stanford University on Coursera  (verify: LMHFU2D6ZIUB) 
   * The major challenges of the U.S.healthcare system
