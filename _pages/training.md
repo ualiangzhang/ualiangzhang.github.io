@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 12/2024 **Evaluations of AI Applications in Healthcare**  
+  * Stanford University on Coursera  (verify: 76I0KS2TWNAT) 
+  * Principles and practical considerations for integrating AI into clinical workflows
+  * Best practices of AI applications to promote fair and equitable healthcare solutions
+  * Challenges of regulation of AI applications and which components of a model can be regulated
+  * What standard evaluation metrics do and do not provide
+
 * 12/2024 **Fundamentals of Machine Learning for Healthcare**  
   * Stanford University on Coursera  (verify: LMU7Z1DH23HT) 
   * Define important relationships between the fields of machine learning, biostatistics, and traditional computer programming
