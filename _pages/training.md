@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 12/2024 **Fundamentals of Machine Learning for Healthcare**  
+  * Stanford University on Coursera  (verify: LMU7Z1DH23HT) 
+  * Define important relationships between the fields of machine learning, biostatistics, and traditional computer programming
+  * Learn about advanced neural network architectures for tasks ranging from text classification to object detection and segmentation
+  * Learn important approaches for leveraging data to train, validate, and test machine learning models
+  * Understand how dynamic medical practice and discontinuous timelines impact clinical machine learning application development and deployment
+
 * 12/2024 **Introduction to Clinical Data**  
   * Stanford University on Coursera  (verify: LGDT57D22K7C) 
   * How to apply a framework for medical data mining
