@@ -8,6 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 12/2024 **AI in Healthcare**  
+  * Stanford University on Coursera  (verify: P2B4QDZLXOYG)
+  * Identify problems healthcare providers face that machine learning can solve
+  * Analyze how AI affects patient care safety, quality, and research
+  * Relate AI to the science, practice, and business of medicine
+  * Apply the building blocks of AI to help you innovate and understand emerging technologies
+
+* 12/2024 **AI in Healthcare Capstone**  
+  * Stanford University on Coursera  (verify: 6GJJ7NIJKNQH)
+
 * 12/2024 **Evaluations of AI Applications in Healthcare**  
   * Stanford University on Coursera  (verify: 76I0KS2TWNAT) 
   * Principles and practical considerations for integrating AI into clinical workflows
