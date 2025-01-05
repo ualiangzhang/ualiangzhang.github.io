@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 01/2025 **Machine Learning with Apache Spark**  
+  * IBM on Coursera  (verify: BCI3DVLZIVMT)
+  * Describe ML, explain its role in data engineering, summarize generative AI, discuss Spark's uses, and analyze ML pipelines and model persistence
+  * Evaluate ML models, distinguish between regression, classification, and clustering models, and compare data engineering pipelines with ML pipelines
+  * Construct the data analysis processes using Spark SQL, and perform regression, classification, and clustering using SparkML
+  * Demonstrate connecting to Spark clusters, build ML pipelines, perform feature extraction and transformation, and model persistence
+
 * 12/2024 **AI in Healthcare**  
   * Stanford University on Coursera  (verify: P2B4QDZLXOYG)
   * Identify problems healthcare providers face that machine learning can solve
