@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 01/2025 **Digital Transformation Using AI/ML with Google Cloud**  
+  * Google on Coursera  (verify: K6149H4FQ8JH)
+  * Digital Transformation with Google Cloud
+  * Modernize Infrastructure and Applications with Google Cloud
+  * Managing Machine Learning Projects with Google Cloud
+
 * 01/2025 **Machine Learning with Apache Spark**  
   * IBM on Coursera  (verify: BCI3DVLZIVMT)
   * Describe ML, explain its role in data engineering, summarize generative AI, discuss Spark's uses, and analyze ML pipelines and model persistence
