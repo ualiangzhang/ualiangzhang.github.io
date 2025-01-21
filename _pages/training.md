@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 01/2025 **Databricks to Local LLMs**  
+  * Duke University on Coursera  (verify: F0OX0JF48OC0)
+  * Create and design ML pipelines
+  * Use Llamafile and other local LLMs like Mixtral
+
 * 01/2025 **Digital Transformation Using AI/ML with Google Cloud**  
   * Google on Coursera  (verify: K6149H4FQ8JH)
   * Digital Transformation with Google Cloud
