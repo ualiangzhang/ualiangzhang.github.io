@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 02/2025 **Introduction to Kubernetes**  
+  * The Linux Foundation on edX  (verify: 82907c6efa964597bcff950fe22c4458)
+
 * 01/2025 **Databricks to Local LLMs**  
   * Duke University on Coursera  (verify: F0OX0JF48OC0)
   * Use Databricks for data engineering and ML workloads
