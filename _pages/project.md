@@ -11,6 +11,9 @@ author_profile: true
 
 Projects and Research
 ======
+* 04/2025 – present **Multimodal Deep Learning for Predicting Labor Onset**
+  * Develop multimodal deep learning models combining physiological time-series and contextual data to predict labor onset, supporting early intervention and clinical decisions in maternal care.
+
 * 05/2024 – present **Next-Generation Teams**
   * Develop and implement AI-driven methods to enhance team performance and collaboration in the Next Generation Teams project, focusing on understanding and predicting human decision-making through plan recognition, large language models (LLMs), and reinforcement learning.
 
