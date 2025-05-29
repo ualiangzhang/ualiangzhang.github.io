@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 02/2025 **Introduction to Microsoft Azure Cloud Services**  
+  * Microsoft on Coursera  (verify: K0KQAI988LXE)
+
 * 02/2025 **Introduction to Kubernetes**  
   * The Linux Foundation on edX  (verify: 82907c6efa964597bcff950fe22c4458)
 
