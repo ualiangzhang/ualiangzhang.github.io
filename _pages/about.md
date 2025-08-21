@@ -25,6 +25,7 @@ My primary research interests encompass a wide range of topics, including:
 
 News
 ======
+* **08/21/2025**: Good News! Our paper “How Is LLM Reasoning Distracted by Irrelevant Context? An Analysis Using a Controlled Benchmark” has been accepted to the EMNLP 2025 main conference.
 * **08/12/2024**: I will be teaching INFO 557: Neural Networks during the Fall 2024 semester.
 * **08/11/2024**: I'm honored to serve as a Program Committee Member for AAAI-25.
 * **08/09/2024**: I attended the Workshop on Interpretable Policies in Reinforcement Learning at RLC 2024 and presented our work - VQ-RL.
