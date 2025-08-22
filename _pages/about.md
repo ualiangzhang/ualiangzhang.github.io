@@ -16,10 +16,10 @@ I hold a Ph.D. in Electrical Engineering and have extensive experience in explor
 
 My primary research interests encompass a wide range of topics, including:
 
-- Deep Learning
+- Deep Learning Applications
+- NLP/LLM
 - Reinforcement Learning
 - Cybersecurity
-- Scientific Knowledge Extraction
 
 [//]: # (My current research focuses on [SKEMA: Scientific Knowledge Extraction and Model Analysis]&#40;https://github.com/ml4ai/skema&#41;, a project aims at extracting and integrating knowledge from scientific literature using artificial intelligence and machine learning methods. This endeavor reflects my dedication to solving complex problems in artificial intelligence, and I am excited to share the findings and insights from this ongoing work.)
 
