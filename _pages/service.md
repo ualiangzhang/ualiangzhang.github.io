@@ -11,6 +11,7 @@ author_profile: true
 
 Service and Leadership
 ======
+* NeurIPS-25 (Conference) Reviewer
 * ICLR-25 (Conference) Reviewer
 * AAAI-25 (Conference) PC Member
 * NeurIPS-24 (Conference) Reviewer
